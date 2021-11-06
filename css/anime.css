@@ -1,0 +1,19 @@
+
+
+@keyframes super {
+    0% {
+        color: darkblue;
+    }
+
+    25% {
+        color: yellow;
+    }
+
+    50% {
+        color: hotpink;
+    }
+
+    100% {
+        color: darkgreen;
+    }
+}
