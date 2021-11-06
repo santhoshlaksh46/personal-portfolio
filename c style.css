@@ -1,0 +1,14 @@
+*{
+	box-shadow: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: 'Montserrat', sans-serif;
+	background: black;
+	
+}
+
+#head{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
